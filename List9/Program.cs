@@ -9,8 +9,7 @@ Console.WriteLine();
 Console.WriteLine("Defina um divisor");
 double divisor = Convert.ToDouble(Console.ReadLine());
 double divisao;
-foreach (var i in numeros)
-{
+foreach (var i in numeros) {
     divisao = Convert.ToDouble(i / divisor);
     Console.WriteLine(divisao);
 }
