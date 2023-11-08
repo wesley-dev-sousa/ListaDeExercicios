@@ -1,6 +1,6 @@
 ﻿using desaClass2;
 
-var conta1 = new ContaBancaria() { saldo = 1000};
+var conta1 = new ContaBancaria() { saldo = 1000 };
 
 int operação = 0;
 while (operação != 4) {
