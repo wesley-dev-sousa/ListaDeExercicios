@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\desaClass3\\desaClass3.csproj",
+      "projectUniqueName": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\desaClass3\\desaClass3.csproj",
       "projectName": "desaClass3",
-      "projectPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\desaClass3\\desaClass3.csproj",
+      "projectPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\desaClass3\\desaClass3.csproj",
       "packagesPath": "C:\\Users\\criatec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\desaClass3\\obj\\",
+      "outputPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\desaClass3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\criatec\\AppData\\Roaming\\NuGet\\NuGet.Config",

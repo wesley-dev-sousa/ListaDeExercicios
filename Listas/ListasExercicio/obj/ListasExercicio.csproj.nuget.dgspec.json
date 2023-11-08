@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\ListasExercicio\\ListasExercicio.csproj": {}
+    "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\ListasExercicio\\ListasExercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\ListasExercicio\\ListasExercicio.csproj": {
+    "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\ListasExercicio\\ListasExercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\ListasExercicio\\ListasExercicio.csproj",
+        "projectUniqueName": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\ListasExercicio\\ListasExercicio.csproj",
         "projectName": "ListasExercicio",
-        "projectPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\ListasExercicio\\ListasExercicio.csproj",
+        "projectPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\ListasExercicio\\ListasExercicio.csproj",
         "packagesPath": "C:\\Users\\criatec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\ListasExercicio\\obj\\",
+        "outputPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\ListasExercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\criatec\\AppData\\Roaming\\NuGet\\NuGet.Config",
