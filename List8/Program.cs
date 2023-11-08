@@ -1,4 +1,4 @@
-﻿List<string> frutas = new List<string>() { "Laranja", "Banana", "Pessego"};
+﻿List<string> frutas = new List<string>() { "Laranja", "Banana", "Pessego" };
 
 string qualFruta = Console.ReadLine();
 
