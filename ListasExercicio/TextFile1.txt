@@ -1,0 +1,43 @@
+﻿Desafios Com Listas:
+
+Crie uma lista de números inteiros e encontre o maior valor na lista. *
+
+Dada uma lista de strings, ordene-a em ordem alfabética inversa.*
+
+Crie uma lista de nomes de pessoas e remova todos os nomes repetidos.*
+
+Crie uma lista de números inteiros e remova todos os números pares.*
+
+Escreva um programa que leia uma lista de números do usuário e encontre o segundo menor valor na lista.*
+
+Crie uma lista de strings e insira uma nova string no início e no final da lista.*
+
+Dada uma lista de números inteiros, encontre a soma de todos os números ímpares na lista.*
+
+Crie uma lista de frutas e verifique se uma fruta específica está na lista.*
+
+Crie uma lista de números inteiros e divida todos os elementos por um valor fornecido pelo usuário.*
+
+Crie duas listas de números inteiros e concatene-as em uma terceira lista.*
+
+Escreva um programa que leia uma lista de nomes do usuário e exiba os nomes em ordem alfabética.*
+
+Crie uma lista de produtos com informações como nome, preço e quantidade em estoque. Imprima os produtos com preço acima de um valor especificado.*
+
+Implemente uma função que remova todos os elementos duplicados de uma lista. * 
+
+Crie uma lista de números inteiros e encontre a mediana (o valor do meio) da lista. *
+
+Desenvolva um programa que leia uma lista de palavras do usuário e retorne a palavra mais longa da lista. *
+
+
+Desafios Classe :
+
+
+Crie uma classe "Círculo" com métodos para calcular a área e o perímetro. Peça ao usuário para inserir o raio de um círculo e exiba a área e o perímetro.*
+
+Implemente uma classe "Conta Bancária" com métodos para depositar, sacar e consultar o saldo. Permita que o usuário realize operações em sua conta bancária.*
+
+Crie uma classe "Pessoa" com atributos como nome, idade e cidade de residência. Crie objetos "Pessoa" e exiba suas informações.*
+
+Desenvolva uma classe "Veículo" com métodos para acelerar e parar. Crie objetos "Carro" e "Moto" que herdem de "Veículo" e demonstrem seu uso.*

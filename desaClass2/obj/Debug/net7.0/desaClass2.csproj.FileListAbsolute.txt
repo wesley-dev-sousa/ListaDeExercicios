@@ -1,0 +1,14 @@
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\bin\Debug\net7.0\desaClass2.exe
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\bin\Debug\net7.0\desaClass2.deps.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\bin\Debug\net7.0\desaClass2.runtimeconfig.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\bin\Debug\net7.0\desaClass2.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\bin\Debug\net7.0\desaClass2.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\obj\Debug\net7.0\desaClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\obj\Debug\net7.0\desaClass2.AssemblyInfoInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\obj\Debug\net7.0\desaClass2.AssemblyInfo.cs
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\obj\Debug\net7.0\desaClass2.csproj.CoreCompileInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\obj\Debug\net7.0\desaClass2.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\obj\Debug\net7.0\refint\desaClass2.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\obj\Debug\net7.0\desaClass2.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\obj\Debug\net7.0\desaClass2.genruntimeconfig.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\desaClass2\obj\Debug\net7.0\ref\desaClass2.dll

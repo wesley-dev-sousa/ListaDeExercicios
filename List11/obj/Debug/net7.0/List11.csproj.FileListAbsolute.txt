@@ -1,0 +1,14 @@
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\bin\Debug\net7.0\List11.exe
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\bin\Debug\net7.0\List11.deps.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\bin\Debug\net7.0\List11.runtimeconfig.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\bin\Debug\net7.0\List11.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\bin\Debug\net7.0\List11.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\obj\Debug\net7.0\List11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\obj\Debug\net7.0\List11.AssemblyInfoInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\obj\Debug\net7.0\List11.AssemblyInfo.cs
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\obj\Debug\net7.0\List11.csproj.CoreCompileInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\obj\Debug\net7.0\List11.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\obj\Debug\net7.0\refint\List11.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\obj\Debug\net7.0\List11.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\obj\Debug\net7.0\List11.genruntimeconfig.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\ListasExercicio\List11\obj\Debug\net7.0\ref\List11.dll
