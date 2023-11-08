@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\list3\\list3.csproj": {}
+    "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\list3\\list3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\list3\\list3.csproj": {
+    "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\list3\\list3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\list3\\list3.csproj",
+        "projectUniqueName": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\list3\\list3.csproj",
         "projectName": "list3",
-        "projectPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\list3\\list3.csproj",
+        "projectPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\list3\\list3.csproj",
         "packagesPath": "C:\\Users\\criatec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\list3\\obj\\",
+        "outputPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\ListasExercicio\\Listas\\list3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\criatec\\AppData\\Roaming\\NuGet\\NuGet.Config",
